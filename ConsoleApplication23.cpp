@@ -46,6 +46,6 @@ int main()
         printf("%5.1lf - %7.3lf\n", x[0][i], x[1][i]);
     getApprox(x, &a, &b, n);
     printf("a = %lf\nb = %lf", a, b);
-    getchar();getchar();
+    getchar();
     return 0;
 }
