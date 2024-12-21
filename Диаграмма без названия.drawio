@@ -124,7 +124,7 @@
         <mxCell id="acI447qzfLButbWmioAm-68" value="id Врача" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="465" y="130" width="143" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="acI447qzfLButbWmioAm-69" value="Стаж работы" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="acI447qzfLButbWmioAm-69" value="id Визита" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="83" width="143" height="45" as="geometry" />
         </mxCell>
         <mxCell id="acI447qzfLButbWmioAm-70" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -133,8 +133,80 @@
             <mxPoint x="668" y="218" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="acI447qzfLButbWmioAm-71" value="Стаж работы" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="acI447qzfLButbWmioAm-71" value="id Пациента" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="699" y="134" width="143" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="acI447qzfLButbWmioAm-72" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="815" y="229" as="sourcePoint" />
+            <mxPoint x="743" y="237" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="acI447qzfLButbWmioAm-73" value="id Диагноза" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="777" y="188" width="143" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="acI447qzfLButbWmioAm-74" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="814" y="276" as="sourcePoint" />
+            <mxPoint x="743" y="247" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="acI447qzfLButbWmioAm-75" value="Дата визита" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="813" y="250" width="143" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="acI447qzfLButbWmioAm-76" value="" style="endArrow=none;html=1;rounded=0;exitX=0.4;exitY=0.023;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="556.999" as="sourcePoint" />
+            <mxPoint x="694" y="513" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="acI447qzfLButbWmioAm-77" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="814" y="525" as="sourcePoint" />
+            <mxPoint x="743" y="496" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="acI447qzfLButbWmioAm-78" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="815" y="474" as="sourcePoint" />
+            <mxPoint x="743" y="482" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="acI447qzfLButbWmioAm-79" value="id Пациента" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="813" y="446" width="143" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="acI447qzfLButbWmioAm-80" value="ФИО" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="811" y="506" width="143" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="acI447qzfLButbWmioAm-81" value="Адрес места жительства" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="716" y="555" width="143" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="acI447qzfLButbWmioAm-82" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="513" as="sourcePoint" />
+            <mxPoint x="622" y="561" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="acI447qzfLButbWmioAm-83" value="Дата рождения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="552" y="561" width="143" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="acI447qzfLButbWmioAm-85" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="112" y="511" as="sourcePoint" />
+            <mxPoint x="94" y="559" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="acI447qzfLButbWmioAm-86" value="id Диагноза" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="18" y="555" width="143" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="acI447qzfLButbWmioAm-87" value="" style="endArrow=none;html=1;rounded=0;exitX=0.4;exitY=0.023;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="242" y="554.999" as="sourcePoint" />
+            <mxPoint x="186" y="511" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="acI447qzfLButbWmioAm-88" value="Название диагноза" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="189" y="555" width="143" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
